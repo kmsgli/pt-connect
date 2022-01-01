@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "Welcome to Pine-Time connect"
-echo "You need to know the adress of your PineTime to competed this (presst CTRL + c to quit and find that first if you need to)"
-sleep 3s
+echo "Welcome to PT-Connect a PinTime/PinePhone conenction helper script"
+sleep 2s
 
 echo "What is your Blue Tooth Mac Address for the PineTime?"
 
