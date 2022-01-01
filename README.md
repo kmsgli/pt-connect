@@ -16,8 +16,11 @@ git clone https://github.com/kmsgli/pt-connect/
 # change directory into the repo
 cd pt-connect
 
+# make setup executable
+chmod +x setup.sh
+
 # run setup script
-./pt-connect.sh
+./setup.sh
 
 # script will require sudo to move the script into the correct folder for automatic run on resume
 
