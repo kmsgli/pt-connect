@@ -22,5 +22,5 @@ chmod +x setup.sh
 # run setup script
 ./setup.sh
 
-# script will require sudo to move the script into the correct folder for automatic run on resume
+# script will require sudo to move things into system folders
 
