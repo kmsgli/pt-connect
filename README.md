@@ -15,7 +15,7 @@
 ################################### How to Use ###########################################
 
 # clone the repo
-[copy content="git clone https://github.com/kmsgli/pt-connect/"]
+'''git clone https://github.com/kmsgli/pt-connect/'''
 
 # change directory into the repo
 cd pt-connect
