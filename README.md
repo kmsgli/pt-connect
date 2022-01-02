@@ -18,13 +18,13 @@
 <pre>git clone https://github.com/kmsgli/pt-connect/</pre>
 
 # change directory into the repo
-cd pt-connect
+<pre>cd pt-connect</pre>
 
 # make setup executable
-chmod +x setup.sh
+<pre>chmod +x setup.sh</pre>
 
 # run setup script
-./setup.sh
+<pre>./setup.sh</pre>
 
 # you need your PineTime bluetooth adress for the setup script
 
