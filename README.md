@@ -26,7 +26,8 @@
 # run setup script
 <pre>./setup.sh</pre>
 
-# you need your PineTime bluetooth adress for the setup script
+# you need your PineTime bluetooth address for the setup script
 
 # script will require sudo to move things into system folders
 
+# after setup reboot the PinePhone and the PineTime and use amazfish to make the first connection then the script should begin reconnecting after every suspend
