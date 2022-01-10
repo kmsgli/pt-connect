@@ -35,6 +35,8 @@ After=suspend.target
 User=%I
 Type=simple
 ExecStart=/usr/local/bin/pt-connect.sh
+Restart=on-failure
+RestartSec=2s
 
 [Install]
 WantedBy=suspend.target" >> resume@$USER.service
